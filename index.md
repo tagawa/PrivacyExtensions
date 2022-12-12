@@ -7,3 +7,15 @@
 #
 layout: home
 ---
+
+---
+title: Privacy Extensions
+subtitle: Browser extensions for protecting your privacy online.
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
+
+# Privacy Extensions
+
+Coming soon: A showcase of privacy-protection browser extensions.
