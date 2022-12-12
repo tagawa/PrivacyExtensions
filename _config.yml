@@ -4,4 +4,5 @@ author:
 description: Browser extensions for protecting your privacy online.
 
 # Build settings
-theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: minima
