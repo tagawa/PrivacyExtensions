@@ -10,7 +10,7 @@ title: Privacy Extensions
 subtitle: Browser extensions for protecting your privacy online.
 description: Coming soon: A showcase of privacy-protection browser extensions.
 # callouts: home_callouts
-gallery: example_gallery
+gallery: gallery
 show_sidebar: false
 ---
 
